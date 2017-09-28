@@ -34,13 +34,11 @@ Please take the time to read all comments in the file to fully understand what y
 
 Now you are ready to run, enter:
 
-`node my-wallet.js`
+`node iota-wallet.js my-wallet help`
 
-`node my-wallet.js help`
+`node iota-wallet.js my-wallet SyncAll`
 
-`node my-wallet.js SyncAll`
-
-`node my-wallet.js ShowBalance`
+`node iota-wallet.js my-wallet ShowBalance`
 
 Youtube video on how to operate the wallet:
 https://www.youtube.com/watch?v=cwTxv-LnvYw
