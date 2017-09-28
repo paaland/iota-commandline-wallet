@@ -7,7 +7,7 @@ module.exports = {
     // do so because it has to do the Proof of Work (PoW) for you, which puts a very high load
     // on the server.
 
-    'provider': 'http://localhost:14265',
+    'provider': 'https://iota.thathost.net:443',
 
     // The basic concept of this config file is that the wallet itself can be startet under different names
     // in Linux you can do this by creating a softlink, in windows you just copy the original my-wallet.js

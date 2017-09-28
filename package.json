@@ -2,7 +2,7 @@
   "name": "release",
   "version": "0.7.0",
   "description": "IOTA commandline wallet",
-  "main": "my-wallet.js",
+  "main": "iota-wallet.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
